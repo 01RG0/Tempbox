@@ -50,7 +50,7 @@ TempBox is a modern, feature-rich temporary email client with both GUI and CLI i
 
 1. Clone the repository (or download ZIP):
 ```bash
-git clone https://github.com/yourusername/tempbox.git
+git clone https://github.com/01RG0/Tempbox.git
 cd tempbox
 ```
 
